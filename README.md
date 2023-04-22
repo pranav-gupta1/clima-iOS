@@ -6,4 +6,4 @@ I created an iOS application called Clima. It is a weather app with a few extra 
 
 
 
-//Note: I learned the main concepts from an online course. Created individually and checked as I went, in addition to Swift and Open Weather API documentation. Credits to Angela/London App Bewery for reference.
+//Note: I learned the main concepts from an online course. Created individually and checked as I went, in addition to Swift and Open Weather API documentation. Credits to Angela Yu/London App Bewery for reference.
